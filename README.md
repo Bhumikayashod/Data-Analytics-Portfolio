@@ -57,7 +57,7 @@ Developed an interactive sales analytics dashboard to analyze revenue performanc
 - Helped understand overall business performance
 
 ### 📸 Dashboard Preview
-![Sales Dashboard](PASTE_IMAGE_LINK_HERE)
+![Sales Dashboard](https://github.com/Bhumikayashod/Data-Analytics-Portfolio/blob/main/Screenshot%202026-02-06%20164101.png?raw=true)
 
 ---
 
@@ -76,7 +76,7 @@ Created an HR analytics dashboard to analyze employee workforce data, salary pat
 - Helped understand employee retention and workforce structure
 
 ### 📸 Dashboard Preview
-![HR Dashboard](PASTE_IMAGE_LINK_HERE)
+![HR Dashboard]()
 
 ---
 
