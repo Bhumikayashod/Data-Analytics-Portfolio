@@ -95,7 +95,7 @@ Developed an Amazon sales performance dashboard to track product sales, state-wi
 - Helped in understanding product demand patterns
 
 ### 📸 Dashboard Preview
-![Amazon Sales Dashboard](PASTE_IMAGE_LINK_HERE)
+![Amazon Sales Dashboard](https://github.com/Bhumikayashod/Data-Analytics-Portfolio/blob/main/Screenshot%202025-09-20%20112138.png?raw=true)
 
 ---
 
