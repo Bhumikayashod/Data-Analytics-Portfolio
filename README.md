@@ -76,7 +76,7 @@ Created an HR analytics dashboard to analyze employee workforce data, salary pat
 - Helped understand employee retention and workforce structure
 
 ### 📸 Dashboard Preview
-![HR Dashboard]()
+![HR Dashboard](https://github.com/Bhumikayashod/Data-Analytics-Portfolio/blob/main/Screenshot%202026-02-06%20164554.png?raw=true)
 
 ---
 
