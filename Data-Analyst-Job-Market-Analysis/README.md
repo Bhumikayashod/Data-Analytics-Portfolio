@@ -70,8 +70,8 @@ The Power BI dashboard contains two pages:
 
 - `Data_Analyst_Final.csv` — cleaned Data Analyst job dataset
 - `Data_Analyst_Job_Market_Analysis.pbix` — Power BI dashboard
-- `screenshots/` — dashboard screenshots
-- `python/` — Python analysis files
+- `Screenshot 2026-09-10 171422.png` — Dashboard Page 1
+- `Screenshot 2026-09-10 171531.png` — Dashboard Page 2
 
 ## 💡 Learning Outcomes
 
